@@ -1,5 +1,5 @@
 {
-    "Travel 1": {
+    "1": {
         "code": "GALR210214",
         "name": "Gale Reef",
         "length": "4 nights / 5 days",
@@ -9,57 +9,57 @@
         "image": "reef1.jpg",
         "description": "<p>Gale Reef sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis.</p><p>Sed consequat libero ut turpis venenatis ut aliquam risus semper. Etiam convallis mi vel risus pretium sodales. Etiam nunc lorem ullamcorper vitae laoreet.</p>"
     }, 
-    "Travel 2": {
+    "2": {
         "code": "DAWR210315",
         "name": "Dawson's Reef",
-        "length":"4 nights / 5 days",
+        "length": "4 nights / 5 days",
         "start": "2021-03-15T08:00:00Z",
         "resort": "Blue Lagoon, 4 stars",
         "perPerson": "1199.00",
         "image": "reef2.jpg",
         "description": "<p>Dawson's Reef integer magna leo, posuere et dignissim vitae, porttitor at odio. Pellentesque a metus nec magna placerat volutpat. Nunc nisi mi, elementum sit amet aliquet quis, tristique quis nisl. Curabitur odio lacus, blandit ut hendrerit</p><p>vulputate, vulputate at est. Morbi aliquet viverra metus eu consectetur. In lorem dui, elementum sit amet convallis ac, tincidunt vel sapien.</p>"
     }, 
-    "Travel 3": {
+    "3": {
         "code": "CLAR210621",
         "name": "Claire's Reef",
-        "length":"4 nights / 5 days",
-        "start":"2021-06-21T08:00:00Z",
+        "length": "4 nights / 5 days",
+        "start": "2021-06-21T08:00:00Z",
         "resort": "Coral Sands, 5 stars",
         "perPerson": "1999.00",
         "image": "reef3.jpg",
         "description": "<p>Claire's Reef donec sed felis risus. Nulla facilisi. Donec a orci tellus, et auctor odio. Fusce ac orci nibh, quis semper arcu. Cras orci neque, euismod et accumsan ac, sagittis molestie lorem. Proin odio sapien, elementum at tempor non.</p><p>Vulputate eget libero. In hac habitasse platea dictumst. Integer purus justo, egestas eu consectetur eu, cursus in tortor. Quisque nec nunc ac mi ultrices iaculis."
     }, 
-    "Rooms 1": {
+    "4": {
         "name": "First Class Room",
         "image": "first-class.jpg",
         "description": "<p>First Class Room Cras dui sapien, feugiat vitae tristique ut, lobortis tempor orci. Donec pulvinar sagittis metus ut tristique. Pellentes que habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas idios.</p>",
         "rate": "Rate: 220 / Day"
     }, 
-    "Rooms 2": {
+    "5": {
         "name": "Deluxe Room",
         "image": "deluxe.jpg",
         "description": "<p>Deluxe Room Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis.</p>",
         "rate": "Rate: 150 / Day"
     }, 
-    "Rooms 3": {
+    "6": {
         "name": "Suite Room",
         "image": "suite.jpg",
         "description": "<p>Suite Room Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis.</p>",
         "rate": "Rate: 180 / Day"
     }, 
-    "Meals 1": {
+    "7": {
         "title": "SeaFood Special",
         "image": "seafoods.jpg",
         "name": "Fried Salmon Special",
         "description": "<p>Fried Salmon Special I'm a product overview. Here you can write more information about your product. Buyers like to know ...</P>"
     }, 
-    "Meals 2": {
+    "8": {
         "title": "Sumptuous Desserts",
         "image": "desserts.jpg",
         "name": "Choco Ice Cream Sandwich",
         "description": "<p>Choco Ice Cream Sandwich I'm a product overview. Here you can write more information about your product. Buyers like to know ...</P>"
     }, 
-    "Meals 3": {
+    "9": {
         "title": "Buffet",
         "image": "buffet.jpg",
         "name": "Mixed Buffet",
