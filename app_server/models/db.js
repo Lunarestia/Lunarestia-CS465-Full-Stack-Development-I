@@ -37,7 +37,7 @@ if (process.platform === 'win32') {
 }
 
 const gracefulShutdown = (msg, callback) => {
-    mongoose.connection.close( () => {
+    mongoose.connection.close(() => {
         console.log(`Mongoose disconnected through ${msg}`);
         callback();
     });    
