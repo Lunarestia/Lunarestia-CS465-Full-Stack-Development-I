@@ -14,7 +14,7 @@ export class TripDataService {
   public addTrip(formData: Trip): Promise<Trip> {
     console.log('Inside TripDataService#addTrip');
     return this.http
-      .post(this.tripUrl, formData) //pass form data in request body
+      .post(`${this.apiBaseUrl}trips`, formData) //pass form data in request body
       .toPromise()
       .then(response => response.json() as Trip[])
       .catch(this.handleError);

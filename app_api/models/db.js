@@ -27,7 +27,7 @@ mongoose.connection.on('disconnected', () => {
     console.log('Mongoose disconnected');
 });
 
-if (process.platform === 'win32') {
+if (process.platform === 'win64') {
     const rl = readLine.createInterface ({
         input: process.stdin,
         output: process.stdout
