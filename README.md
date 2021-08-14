@@ -13,4 +13,4 @@ CS465 - Full Stack Development I
 * 
 * `Module 6` SPA - Single-Page Application with Angular
 * 
-* `Module 7` Adds Security & Authorization to Add-Trips & Edit-Trips, Requires Users to login in for these Buttons to Show & Function.
+* `Module 7` Adds Security & Authorization to Add-Trips & Edit-Trips, Requires Users to login for these Buttons to Show & Function.
