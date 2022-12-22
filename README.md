@@ -34,7 +34,7 @@ Adding handlebars functionality made things much more efficient, utilizing parti
 # Testing
 
 ## Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
-The API endpoints were where requests for information were sent to when testing. We used functions like GET, POST, PUT and DELETE. these functions can be used to get information from the database, push information to the database, edit information that is there, and delete information from the database. Adding security is essential to keep unauthorized users from being able to access the information stored there as well as prevented anyone from changing, adding or deleting information stored there without proper authorization.
+The API endpoints were where requests for information were sent to when testing. We used functions like GET, POST, PUT and DELETE. these functions can be used to get information from the database, push information to the database, edit information that is there, and delete information from the database. Adding security is essential to keep unauthorized users from being able to access the information stored there as well as prevented anyone from changing, adding or deleting information stored there without the proper authorization.
 
 # Reflection
 
